@@ -2,10 +2,10 @@
 
 > **Business Analytics Portfolio Project | Microsoft Excel + Power Query**
 
-[![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![Power Query](https://img.shields.io/badge/Tool-Power%20Query-5E5E5E?style=flat-square)](https://learn.microsoft.com/power-query/)
-[![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=flat-square)](#)
-[![Visualization](https://img.shields.io/badge/Focus-Data%20Visualization-orange?style=flat-square)](#)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-68217A?style=flat&logo=microsoft&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Data%20Analytics-blue?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Visualization-orange?style=flat)
 
 ## 📌 Project Overview
 
