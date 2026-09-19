@@ -125,7 +125,7 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 **Question:** Which broader category has the highest contribution towards CPI calculation?
 
-![Category Contribution](visualizations/01_category_contribution.png)
+![Category Contribution](insights-1.png)
 
 ### Key Insight
 
