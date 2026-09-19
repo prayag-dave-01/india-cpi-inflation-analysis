@@ -129,7 +129,7 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 ### Key Insight
 
-In the workbook's current analysis, **Food accounts for 44% of the classified observations**, making it the largest category in the displayed contribution analysis. Education accounts for approximately 3%.
+**Food accounts for 44% of the classified observations**, making it the largest category in the displayed contribution analysis. Education accounts for approximately 3%.
 
 ### Methodological Note
 
