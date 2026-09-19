@@ -1,4 +1,4 @@
-# 🇮🇳 India CPI Inflation Analysis
+# India CPI Inflation Analysis
 
 > **Business Analytics Portfolio Project | Microsoft Excel + Power Query**
 
