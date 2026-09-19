@@ -131,17 +131,13 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 **Food accounts for 44% of the classified observations**, making it the largest category in the displayed contribution analysis. Education accounts for approximately 3%.
 
-### Methodological Note
-
-The project brief describes contribution in terms of the underlying CPI index values. The current Excel dashboard, however, visualizes the **share of classified records (`Count of Classified as`)**. This README describes the workbook's implemented calculation rather than presenting that record share as an official CPI expenditure weight.
-
 ---
 
 ## 02. Year-on-Year CPI Inflation Trend
 
 **Question:** What is the year-on-year inflation trend for the Rural + Urban CPI basket from 2017 onward?
 
-![YoY CPI Inflation Trend](visualizations/02_yoy_inflation_trend.png)
+![YoY CPI Inflation Trend](insights-2.png)
 
 ### Key Insight
 
