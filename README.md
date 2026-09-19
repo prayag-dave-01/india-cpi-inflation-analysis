@@ -151,7 +151,7 @@ The project documentation attributes the 2022 peak to severe global supply shock
 
 **Question:** How did food-category prices move month-on-month during June 2022–May 2023?
 
-![Food MoM Inflation Trend](visualizations/03_food_mom_trend.png)
+![Food MoM Inflation Trend](insights-3.png)
 
 ### Key Insights
 
@@ -165,7 +165,7 @@ The project documentation attributes the 2022 peak to severe global supply shock
 
 **Question:** How did inflation change around the COVID-19 period across food, health and household goods/services?
 
-![COVID Inflation Analysis](visualizations/04_covid_impact.png)
+![COVID Inflation Analysis](insights-4.png)
 
 ### Key Insights
 
@@ -182,7 +182,7 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 
 **Question:** How strongly are fuel-price movements associated with selected CPI categories during 2021–2023?
 
-![Fuel and Transport Correlation](visualizations/05_fuel_transport_correlation.png)
+![Fuel and Transport Correlation](insights-5.png)
 
 ### Key Insight
 
