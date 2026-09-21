@@ -1,5 +1,3 @@
-<img width="1541" height="55" alt="image" src="https://github.com/user-attachments/assets/7cee6fbc-3116-40d5-b623-5f79283126e9" /># India CPI Inflation Analysis
-
 > **Portfolio Project | Microsoft Excel + Power Query**
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
