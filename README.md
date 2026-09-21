@@ -139,11 +139,10 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 ![YoY CPI Inflation Trend](Charts/insights-2.png)
 
-### Key Insight
+### Key Insights
 
-The Rural + Urban series records its highest year-on-year increase in the analyzed 2017–2023 period in **2022, at 6.6%**.
-
-As per research, the inflation peaked due to severe global supply shocks from the Russia - Ukraine war which spiked imported oil and food prices.
+- The Rural + Urban series records its highest year-on-year increase in the analyzed 2017–2023 period in **2022, at 6.6%**.
+- As per research, the inflation peaked due to severe global supply shocks from the Russia - Ukraine war which spiked imported oil and food prices.
 
 ---
 
@@ -184,7 +183,7 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 
 ![Fuel and Transport Correlation](Charts/insights-5.png) ![Fuel and Transport Correlation](Charts/insights-5_2.png) 
 
-### Key Insight
+### Key Insights
 
 - Category **"Transport & Communication" has the strongest relationship with oil/fuel price fluctuations, with a positive correlation of 67%**. This indicates that increases in oil prices are generally associated with increases in inflation in this category. 
 - Category **"Food" shows 0% correlation**, indicating no linear relationship with oil price changes in the analysed data.
