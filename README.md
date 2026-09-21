@@ -201,8 +201,8 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 | Highest Rural + Urban YoY increase, 2017–2023 | **2022 – 6.6%** |
 | Highest food MoM movement in analyzed period | **Feb 2023 – ~7.1%** |
 | Lowest food MoM movement in analyzed period | **Dec 2022 – ~-12.7%** |
-| Fuel ↔ Transport & Communication correlation | **~0%** |
-| Fuel ↔ Food correlation | **% positive** |
+| Fuel ↔ Transport & Communication correlation | **67% positive** |
+| Fuel ↔ Food correlation | **~0%** |
 
 ---
 
