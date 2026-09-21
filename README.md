@@ -202,6 +202,7 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 | Highest food MoM movement in analyzed period | **Feb 2023 – ~7.1%** |
 | Lowest food MoM movement in analyzed period | **Dec 2022 – ~-12.7%** |
 | Fuel ↔ Transport & Communication correlation | **67% positive** |
+| COVID-19 impact on selected CPI categories | Inflation increased from 5.2% pre-2020 to 5.87% post-2020 |
 | Fuel ↔ Food correlation | **~0%** |
 
 ---
