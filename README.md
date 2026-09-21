@@ -224,6 +224,7 @@ india-cpi-inflation-analysis/
 │   ├── insights-4.png
 │   └── insights-5.png
 │   └── insights-5_2.png
+|
 
 ```
 
@@ -299,14 +300,12 @@ To reproduce the analysis:
 
 **Prayag Dave**
 
-MBA – Business Analytics
-
 GitHub: [@prayag-dave-01](https://github.com/prayag-dave-01)
 
 ---
 
 ## ⭐ Portfolio
 
-This repository is part of an ongoing Business Analytics portfolio focused on building practical projects using data cleaning, analysis, visualization and business storytelling.
+This repository is part of a portfolio focused on building practical projects using data cleaning, analysis, visualization and business storytelling.
 
 More projects will be added as the portfolio grows.
