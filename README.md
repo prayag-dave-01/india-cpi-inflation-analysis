@@ -1,3 +1,5 @@
+## 📌 India CPI Inflation
+
 > **Portfolio Project | Microsoft Excel + Power Query**
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
