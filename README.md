@@ -125,7 +125,7 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 **Question:** Which broader category has the highest contribution towards CPI calculation?
 
-![Category Contribution](insights-1.png)
+![Category Contribution](Charts/insights-1.png)
 
 ### Key Insight
 
@@ -137,7 +137,7 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 **Question:** What is the year-on-year inflation trend for the Rural + Urban CPI basket from 2017 onward?
 
-![YoY CPI Inflation Trend](insights-2.png)
+![YoY CPI Inflation Trend](Charts/insights-2.png)
 
 ### Key Insight
 
@@ -151,7 +151,7 @@ As per research, the inflation peaked due to severe global supply shocks from th
 
 **Question:** How did food-category prices move month-on-month during June 2022–May 2023?
 
-![Food MoM Inflation Trend](insights-3.png)
+![Food MoM Inflation Trend](Charts/insights-3.png)
 
 ### Key Insights
 
@@ -165,7 +165,7 @@ As per research, the inflation peaked due to severe global supply shocks from th
 
 **Question:** How did inflation change around the COVID-19 period across food, health and household goods/services?
 
-![COVID Inflation Analysis](insights-4.png)
+![COVID Inflation Analysis](Charts/insights-4.png)
 
 ### Key Insights
 
@@ -182,7 +182,7 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 
 **Question:** How strongly are fuel-price movements associated with selected CPI categories during 2021–2023?
 
-![Fuel and Transport Correlation](insights-5.png) ![Fuel and Transport Correlation](insights-5_2.png) 
+![Fuel and Transport Correlation](Charts/insights-5.png) ![Fuel and Transport Correlation](Charts/insights-5_2.png) 
 
 ### Key Insight
 
