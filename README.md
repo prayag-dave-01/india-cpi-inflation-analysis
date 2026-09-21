@@ -1,6 +1,6 @@
 <img width="1541" height="55" alt="image" src="https://github.com/user-attachments/assets/7cee6fbc-3116-40d5-b623-5f79283126e9" /># India CPI Inflation Analysis
 
-> **Business Analytics Portfolio Project | Microsoft Excel + Power Query**
+> **Portfolio Project | Microsoft Excel + Power Query**
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-68217A?style=flat&logo=microsoft&logoColor=white)
