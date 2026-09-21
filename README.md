@@ -1,4 +1,4 @@
-# India CPI Inflation Analysis
+<img width="1541" height="55" alt="image" src="https://github.com/user-attachments/assets/7cee6fbc-3116-40d5-b623-5f79283126e9" /># India CPI Inflation Analysis
 
 > **Business Analytics Portfolio Project | Microsoft Excel + Power Query**
 
@@ -31,7 +31,7 @@ What is the year-on-year CPI inflation trend for the Rural + Urban sector, parti
 How did the broader food category change month-on-month during the 12-month period ending May 2023, and which food sub-category contributed most to the observed movements?
 
 ### 04. COVID-19 Impact
-How did the onset and progression of COVID-19 affect inflation in India, particularly across food, healthcare and household/essential-service categories?
+How did the onset and progression of COVID-19 affect inflation in India (Mar 2020), particularly across food, healthcare and household/essential-service categories?
 
 ### 05. Imported Oil/Fuel Price Relationship
 How are month-on-month fuel-price movements associated with selected CPI categories during 2021–2023?
@@ -143,7 +143,7 @@ This transformation makes the dataset much easier to filter, group and analyze u
 
 The Rural + Urban series records its highest year-on-year increase in the analyzed 2017–2023 period in **2022, at 6.6%**.
 
-The project documentation attributes the 2022 peak to severe global supply shocks, including effects on imported oil and food prices.
+As per research, the inflation peaked due to severe global supply shocks from the Russia - Ukraine war which spiked imported oil and food prices.
 
 ---
 
@@ -171,10 +171,10 @@ The project documentation attributes the 2022 peak to severe global supply shock
 
 The project compares inflation movements before and after the 2020 COVID-19 period.
 
-- Food and beverages experienced a temporary spike during 2020 before moderating.
-- Health showed a notable increase across the post-2020 period.
-- Household goods and services also showed a post-2020 increase.
-- The workbook's analysis calculates an overall average inflation rate of approximately **5.2% before 2020** and **5.87% after 2020** for the selected categories.
+- Overall Shift: Pre-2020 average inflation across these categories stood at 5.2%, which then increased to 5.87% post-2020, showing a overall baseline rise in cost pressures.
+- Food & Beverages: Experienced a temporary spike to 7.8% during the initial 2020 lockdown, but stabilized post-2020 at 4.6% (a slight +0.4% net increase over 2019 levels).
+- Health Services: Saw a delayed but significant surge post-2020, climbing from 7.2% in 2019 to 7.8% in 2021 (a net increase of +0.6%).
+- Household Goods & Services: Recorded the largest post-2020 shift, rising from 4.2% pre-pandemic up to 5.2% in 2021 (a net increase of +1.0%).
 
 ---
 
@@ -182,13 +182,12 @@ The project compares inflation movements before and after the 2020 COVID-19 peri
 
 **Question:** How strongly are fuel-price movements associated with selected CPI categories during 2021–2023?
 
-![Fuel and Transport Correlation](insights-5.png)
+![Fuel and Transport Correlation](insights-5.png) ![Fuel and Transport Correlation](insights-5_2.png) 
 
 ### Key Insight
 
-The workbook calculates a **positive correlation of approximately 67%** between month-on-month fuel movements and the Transport & Communication category.
-
-The analysis also calculates a lower correlation with Education of approximately **34%**.
+- Category **"Transport & Communication" has the strongest relationship with oil/fuel price fluctuations, with a positive correlation of 67%**. This indicates that increases in oil prices are generally associated with increases in inflation in this category. 
+- Category **"Food" shows 0% correlation**, indicating no linear relationship with oil price changes in the analysed data.
 
 > Correlation indicates the strength and direction of association between variables; it does not by itself establish causation.
 
